@@ -1,7 +1,7 @@
 ## COVID19 Paper__ RA_Position Assignment
 ### This program requires Visual Studio Code (VSCode) to run. The main code for WebScrapping has been writen in Python (the app and not Jupyter Notebook). To run this code in Jupyter Notebook, please convert the file and the input and output locations to your desired location.
 
-Furthermore, the webscraping has been done in four steps. Kindly adhere to the order to ensure that the program runs smoothly. The final file obtained has been shared separately. 
+This code requires certain libraries to be installed before it can be run. These can be found in the requirements.txt file. Furthermore, the webscraping has been done in four steps. Kindly adhere to the order to ensure that the program runs smoothly. The final file obtained has been shared separately. 
 
 Step 1: Execute the main.py file and make sure that the dates run, and restart the process in case the website crashes. Please note, due to website crashes/lags, the date may need to be changed in the main.py file to ensure that the downloading process runs smoothly. The speed of this downloading process will vary as per internet speed and/or website traffic. Please allow for sufficient time for this download to happen. 
 
