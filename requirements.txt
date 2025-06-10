@@ -345,6 +345,7 @@ torchvision==0.21.0+cu118
 tornado==6.4.1
 tqdm==4.67.1
 traitlets==5.14.3
+transformers @ git+https://github.com/huggingface/transformers.git@fc8764c9a618add64c33e83720f974750bcd0978
 translate==3.6.1
 trio==0.25.1
 trio-websocket==0.11.1
@@ -379,6 +380,7 @@ wrapt==1.14.1
 wsproto==1.2.0
 WTForms==3.1.2
 xgboost==3.0.0
+xlrd==2.0.1
 xxhash==3.5.0
 xyzservices==2024.6.0
 yarg==0.1.9
