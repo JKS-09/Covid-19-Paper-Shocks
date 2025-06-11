@@ -13,8 +13,8 @@ import pytesseract
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
-START_DATE = "2020-02-14"
-END_DATE   = "2020-02-15"
+START_DATE = "2020-02-01"
+END_DATE   = "2020-04-30"
 
 # Ensure the output directories exist
 BASE_OUTPUT = os.path.join(os.getcwd(), "output")
