@@ -7,7 +7,7 @@ Step 1: Execute the main.py file and make sure that the dates run, and restart t
 
 Step 2: Convert the downloaded files to xlsx format through html_to_excel.ipynb 
 
-Step 3: excel_cleaner.ipynb is to be used to clean all the data and add the respective dates for each state as per its daily prices, so allow for easier combination
+Step 3: excel_cleaner.ipynb is to be used to clean all the data and add the respective dates for each state as per its daily prices, to allow for easier combination
 
 Step 4: excel_combiner.ipynb is the final step which will compile the excel sheets that have been downloaded according to our needs and will be sorted by date. There will be 24 columns and 2237 rows for the 86 days worth of data.
 
